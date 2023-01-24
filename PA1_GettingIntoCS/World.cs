@@ -1,4 +1,12 @@
-﻿using System;
+﻿/* Name: Daniel Cunningham
+ * Date: 1/24/23
+ * Includes the main driver for the program that loops over a menu allowing the user to add animals
+ * to a world where you can age up your animals, "listen" to them, and display their information.
+ * It also includes the World object which contains the List of animals
+ */
+
+
+using System;
 using System.Collections.Generic;
 
 namespace PA1_GettingIntoCS
