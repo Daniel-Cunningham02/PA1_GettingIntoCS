@@ -83,6 +83,7 @@ namespace PA1_GettingIntoCS
                         break;
                         case 5:
                         isActive = false;
+                        break;
 
                         default:
                             Console.Write("Please restart the program and select a valid selection...");

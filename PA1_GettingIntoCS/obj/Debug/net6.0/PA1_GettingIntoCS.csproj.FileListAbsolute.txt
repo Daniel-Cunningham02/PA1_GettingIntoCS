@@ -1,0 +1,5 @@
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.csproj.AssemblyReference.cache
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.AssemblyInfoInputs.cache
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.AssemblyInfo.cs
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.csproj.CoreCompileInputs.cache
