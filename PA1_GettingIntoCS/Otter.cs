@@ -13,12 +13,12 @@ namespace PA1_GettingIntoCS
     class Otter : Animal
     {
         // Default constructor that calls the abstract class Animal constructor to set it to the default values for Otter
-        public Otter() : base("Default Otter", "squeaks", -1, -1)
+        public Otter() : base("Default Otter", "chirps", -1, -1)
         {
 
         }
         // Parameterized constructor that calls the abstract class Animal constructor to set it to the arguments passed
-        public Otter(string name, int age, int weight) : base(name, "squeaks", age, weight)
+        public Otter(string name, int age, int weight) : base(name, "chirps", age, weight)
         {
 
         }

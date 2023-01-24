@@ -19,7 +19,7 @@ namespace PA1_GettingIntoCS
             bool isActive = true;
             World world = new World();
             while(isActive) {
-                Console.Write("1)Add an animal to the world\n2)Display the information of an animal\n3)Would you like to age up an animal?\n4)See an animal make their noise.\n5)Quit\n");
+                Console.Write("1)Add an animal to the world\n2)Display the information of an animal\n3)Would you like to see the animals age up?\n4)Hear the animals make their noises.\n5)Quit\n");
                 Console.WriteLine("Enter the number for the Menu you wish to go to: ");
                 int selection = Int32.Parse(Console.ReadLine());
                     switch (selection)
@@ -101,6 +101,7 @@ namespace PA1_GettingIntoCS
                             Console.Write("Please restart the program and select a valid selection...");
                             Console.ReadKey();
                             break;
+                    
                 }
             }
         }
