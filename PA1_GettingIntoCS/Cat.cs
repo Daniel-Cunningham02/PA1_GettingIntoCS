@@ -19,7 +19,7 @@ namespace PA1_GettingIntoCS
         public override void printInfo()
         {
             Console.WriteLine(Name + " the cat ");
-            Console.Write("Age: " + Age + "\nWeight: " + Weight + " pounds.\n");
+            Console.Write("Age: " + Age + "\nWeight: " + Weight + " pounds.\n\n");
         }
 
         public override void ageUp()

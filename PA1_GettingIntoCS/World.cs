@@ -11,7 +11,7 @@ namespace PA1_GettingIntoCS
             bool isActive = true;
             World world = new World();
             while(isActive) {
-                Console.Write("1)Add an animal to the world\n\n2)Display the information of an animal\n\n3)Would you like to age up an animal?\n\n4)See an animal make their noise.\n\n5)Quit");
+                Console.Write("1)Add an animal to the world\n2)Display the information of an animal\n3)Would you like to age up an animal?\n4)See an animal make their noise.\n5)Quit\n");
                 Console.WriteLine("Enter the number for the Menu you wish to go to: ");
                 int selection = Int32.Parse(Console.ReadLine());
                     switch (selection)
@@ -28,6 +28,7 @@ namespace PA1_GettingIntoCS
                                 int age = Int32.Parse(Console.ReadLine());
                                 Console.Write("What is " + name + "'s weight? ");
                                 int weight = Int32.Parse(Console.ReadLine());
+                                Console.Write("\n\n");
                                 world.Animals.Add(new Cat(name, age, weight));
                                 break;
 
@@ -38,6 +39,7 @@ namespace PA1_GettingIntoCS
                                 age = Int32.Parse(Console.ReadLine());
                                 Console.Write("What is " + name + "'s weight? ");
                                 weight = Int32.Parse(Console.ReadLine());
+                                Console.Write("\n\n");
                                 world.Animals.Add(new Cassowary(name, age, weight));
                                 break;
 
@@ -48,6 +50,7 @@ namespace PA1_GettingIntoCS
                                 age = Int32.Parse(Console.ReadLine());
                                 Console.Write("What is " + name + "'s weight? ");
                                 weight = Int32.Parse(Console.ReadLine());
+                                Console.Write("\n\n");
                                 world.Animals.Add(new Otter(name, age, weight));
                                 break;
                                 default:
@@ -67,7 +70,7 @@ namespace PA1_GettingIntoCS
                         break;
                             
                         case 3:
-                        Console.WriteLine("\n\nEvery animal in the world has aged up.");
+                        Console.WriteLine("\nEvery animal in the world has aged up.\n");
                         foreach (Animal animal in world.Animals)
                         {
                             animal.ageUp();
@@ -80,6 +83,7 @@ namespace PA1_GettingIntoCS
                         {
                             animal.makeNoise();
                         }
+                        Console.WriteLine("");
                         break;
                         case 5:
                         isActive = false;

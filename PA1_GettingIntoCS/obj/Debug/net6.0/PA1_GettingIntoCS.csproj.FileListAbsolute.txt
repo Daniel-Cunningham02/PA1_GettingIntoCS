@@ -3,3 +3,13 @@ C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0
 C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.AssemblyInfoInputs.cache
 C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.AssemblyInfo.cs
 C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.csproj.CoreCompileInputs.cache
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\bin\Debug\net6.0\PA1_GettingIntoCS.exe
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\bin\Debug\net6.0\PA1_GettingIntoCS.deps.json
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\bin\Debug\net6.0\PA1_GettingIntoCS.runtimeconfig.json
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\bin\Debug\net6.0\PA1_GettingIntoCS.dll
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\bin\Debug\net6.0\PA1_GettingIntoCS.pdb
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.dll
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\refint\PA1_GettingIntoCS.dll
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.pdb
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\PA1_GettingIntoCS.genruntimeconfig.cache
+C:\Users\zelda\source\repos\PA1_GettingIntoCS\PA1_GettingIntoCS\obj\Debug\net6.0\ref\PA1_GettingIntoCS.dll
